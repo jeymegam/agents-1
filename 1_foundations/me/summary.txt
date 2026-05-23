@@ -1,2 +1,6 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name Jey Perayeravan. Strategic and Innovative Data & Analytics Leader with over 15 years of experience driving enterprise-scale data transformation 
+across startups, scale-ups, and FTSE-level organizations. Proven track record in architecting modern, scalable Data platforms and 
+executing AI-ready data strategies that unlock measurable business value. Expert at leading high-performing, cross-functional teams 
+to deliver business-critical initiatives in fast-paced environments. Currently focused on building the foundational data infrastructure 
+required for Generative AI and Agentic workflows, ensuring data reliability, real-time availability, responsible AI capabilities, and 
+automated governance.
